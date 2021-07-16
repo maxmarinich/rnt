@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnt",
+    "slug": "rnt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnt"
+}
